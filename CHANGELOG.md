@@ -2,6 +2,10 @@
 
 ## [Unreleased]
 
+-   Improvements in build process (migrated build tool to poetry, quality gate switched to sonarcloud)
+-   Added support for python 3.9, dropping 3.7 
+-   Updated kedro to version 0.18.* (#139, #106, #58)
+
 ## [0.8.0] - 2022-03-23
 
 -   Support spark projects on K8S
